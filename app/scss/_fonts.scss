@@ -1,0 +1,105 @@
+@font-face {
+    font-family: 'icomoon';
+    src:  url('../fonts/icomoon.eot?ixf2op');
+    src:  url('../fonts/icomoon.eot?ixf2op#iefix') format('embedded-opentype'),
+      url('../fonts/icomoon.ttf?ixf2op') format('truetype'),
+      url('../fonts/icomoon.woff?ixf2op') format('woff'),
+      url('../fonts/icomoon.svg?ixf2op#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+  
+  [class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-canoe:before {
+    content: "\e905";
+  }
+  .icon-mountaint:before {
+    content: "\e90b";
+  }
+  .icon-castle:before {
+    content: "\e902";
+  }
+  .icon-waterfall:before {
+    content: "\e903";
+  }
+  .icon-ancient:before {
+    content: "\e904";
+  }
+  .icon-lyre:before {
+    content: "\e906";
+  }
+  .icon-museum:before {
+    content: "\e907";
+  }
+  .icon-olive-oil:before {
+    content: "\e908";
+  }
+  .icon-parthenon:before {
+    content: "\e909";
+  }
+  .icon-beach:before {
+    content: "\e90a";
+  }
+  .icon-lnr-chevron-left:before {
+    content: "\e915";
+  }
+  .icon-lnr-chevron-right:before {
+    content: "\e916";
+  }
+  .icon-navigation-2:before {
+    content: "\e901";
+  }
+  .icon-google:before {
+    content: "\e900";
+  }
+  .icon-heart:before {
+    content: "\f004";
+  }
+  .icon-map-marker:before {
+    content: "\f041";
+  }
+  .icon-phone:before {
+    content: "\f095";
+  }
+  .icon-twitter:before {
+    content: "\f099";
+  }
+  .icon-facebook:before {
+    content: "\f09a";
+  }
+  .icon-facebook-f:before {
+    content: "\f09a";
+  }
+  .icon-envelope:before {
+    content: "\f0e0";
+  }
+  .icon-lightbulb-o:before {
+    content: "\f0eb";
+  }
+  .icon-tablet:before {
+    content: "\f10a";
+  }
+  .icon-paper-plane:before {
+    content: "\f1d8";
+  }
+  .icon-send:before {
+    content: "\f1d8";
+  }
+  .icon-pinterest-p:before {
+    content: "\f231";
+  }
